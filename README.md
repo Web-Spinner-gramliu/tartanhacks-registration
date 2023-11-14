@@ -1,5 +1,7 @@
 # TartanHacks Registration Site
 
+Test change
+
 This is the frontend website for the TartanHacks Registration System.
 ## Backend Configuration
 
